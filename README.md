@@ -1,4 +1,5 @@
 Banking Program in Go
+
 Overview
 The Banking Program is a simple Go application designed to simulate basic banking operations such as checking account balance, depositing money, and withdrawing money. This project is ideal for learning and demonstrating core Go programming concepts like functions, loops, conditionals, and user input handling.
 
